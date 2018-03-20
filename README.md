@@ -14,7 +14,7 @@
  1. [Install `git` ](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
  1. [Install `GitKraken`](https://www.gitkraken.com/download)
  1. Open a terminal (Mac) or git bash (PC).
- 1. type the following commands into the terminal to set your user.
+ 1. Type the following commands into the terminal to set your user.
 
 Verify install of git by opening a terminal and typing
 ```
