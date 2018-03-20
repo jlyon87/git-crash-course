@@ -11,9 +11,16 @@
 > Follow instructions on these pages to get setup.
 > If you are unsure if you already have `git` installed, open a terminal and type `git --version`.
 
-[Install `git` ](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+ 1. [Install `git` ](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+ 1. [Install `GitKraken`](https://www.gitkraken.com/download)
+ 1. Open a terminal (Mac) or git bash (PC).
+	1. type the following commands into the terminal to set your user.
 
-[Install `GitKraken`](https://www.gitkraken.com/download)
+Enter your User Name and Email for GitHub.
+```
+git config --global user.name "John Doe"
+git config --global user.email johndoe@example.com
+```
 
 ```
 Verify install of git by opening a terminal and typing `git --version`
@@ -43,6 +50,10 @@ Verify install of git by opening a terminal and typing `git --version`
 ---
 ## Clone your Repo to your Machine
 > After creating your repository on GitHub, you will clone a copy of it to your machine.
+
+> To easily open a terminal on Mac, follow [this guide](https://lifehacker.com/launch-an-os-x-terminal-window-from-a-specific-folder-1466745514)
+
+> To open git bash on PC, open My Documents and right click in the empty space of the folder.
 
  1. Open a terminal on your machine
  1. `cd` change directory to My Documents.
