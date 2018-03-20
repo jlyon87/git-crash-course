@@ -58,7 +58,6 @@ Verify install of git by opening a terminal and typing `git --version`
 
 ### Frequently Used
 
-
 #### `git add .`
 After you save a file, add those changes to be tracked.
 
