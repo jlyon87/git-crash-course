@@ -1,10 +1,17 @@
 # git-crash-course
 > Most of this course will focus on fundamental usage of git from the command line. You'll need to complete these steps before we can begin our exercises. When you are done, you should have
 
+ 1. A GitHub Account
  1. `git` installed
  1. `gitkraken` installed
- 1. A GitHub Account
  1. A new empty repository with a `README.md` file.
+
+ ---
+ ## Create an Account on GitHub
+ > GitHub offers free, public repository hosting for everyone. I recommend using a personal email for this account.
+
+ 1. [Sign Up](https://github.com)
+ 1. Login
 
 ---
 ## Install
@@ -26,14 +33,6 @@ Enter your User Name and Email for GitHub.
 git config --global user.name "John Doe"
 git config --global user.email johndoe@example.com
 ```
-
-
----
-## Create an Account on GitHub
-> GitHub offers free, public repository hosting for everyone. I recommend using a personal email for this account.
-
- 1. [Sign Up](https://github.com)
- 1. Login
 
 ---
 ## Create your first Repo
